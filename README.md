@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I’m a passionate Junior Frontend Developer with a growing focus on web applications and user-centered design. I enjoy solving problems, writing clean code, and continuously learning new technologies to improve my craft.
+I’m a passionate Junior backend Developer with a growing focus on web applications and user-centered design. I enjoy solving problems, writing clean code, and continuously learning new technologies to improve my craft.
 
 🌱 Currently learning: python
 🔭 Working on: a portfolio website and a task manager app
